@@ -21,3 +21,9 @@ CSE 309 Assignment1
 ![Description](https://user-images.githubusercontent.com/28053610/68084566-76cdea80-fe61-11e9-88a3-66d4050a7308.gif)</br>
 
 ---
+
+<br>Functionalities:
+* User can add items to the cart
+* Increase quantity and remove item from the cart
+* User can also add items to sell
+* Can see description of the products</br>
