@@ -8,8 +8,18 @@ CSE 309 Assignment1
 
 ---
 
+<br> DESCRITPION OF ALREADY ADDED ITEMS:
+![Descritption](https://user-images.githubusercontent.com/28053610/68089396-93cee180-fe92-11e9-95f7-dee99e3883b9.gif)</br>
+
+---
+
 <br>ADD NEW ITEM:
 ![AddItem](https://user-images.githubusercontent.com/28053610/68084095-4aaf6b00-fe5b-11e9-9737-8ab6d006d562.gif)</br>
+
+---
+
+<br>DESCRIPTION OF NEW ADDED ITEMS:
+![DescriptionNewItem](https://user-images.githubusercontent.com/28053610/68086607-c9b29c80-fe77-11e9-8191-b8dddcda2f0f.gif)</br>
 
 ---
 <br>ADD ITEM TO CART:
@@ -18,10 +28,9 @@ CSE 309 Assignment1
 
 ---
 
-<br>DESCRIPTION OF NEW ADDED ITEMS:
-![DescriptionNewItem](https://user-images.githubusercontent.com/28053610/68086607-c9b29c80-fe77-11e9-8191-b8dddcda2f0f.gif)</br>
 
----
+
+
 
 <br>Functionalities:
 * User can add items to the cart
