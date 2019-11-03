@@ -13,3 +13,4 @@ CSE 309 Assignment1
 
 ---
 <br>ADD ITEM TO CART
+![ezgif com-resize](https://user-images.githubusercontent.com/28053610/68084547-32424f00-fe61-11e9-8afd-5569f2e06ee1.gif)</br>
